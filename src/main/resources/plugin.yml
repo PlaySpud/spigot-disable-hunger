@@ -1,3 +1,0 @@
-name: SpudDisableHunger
-main: rocks.spud.server.disablehunger.DisableHungerPlugin
-version: ${project.version}
